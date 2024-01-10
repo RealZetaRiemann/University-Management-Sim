@@ -1,0 +1,4082 @@
+[
+    {
+      "CourseCode": "AR DE 100",
+      "CourseTitle": "Visualization and Representation",
+      "PreReq": "None",
+      "Major": "2D Art and Design",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "AR DE 101",
+      "CourseTitle": "Space, Form, Process",
+      "PreReq": "None",
+      "Major": "2D Art and Design",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "AR DR 100",
+      "CourseTitle": "Life Drawing",
+      "PreReq": "None",
+      "Major": "2D Art and Design",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "AR DR 101",
+      "CourseTitle": "Figure Drawing",
+      "PreReq": "None",
+      "Major": "2D Art and Design",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "AR DE 103",
+      "CourseTitle": "Typography",
+      "PreReq": "None",
+      "Major": "2D Art and Design",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "AR DE 102",
+      "CourseTitle": "Time and Movement",
+      "PreReq": "None",
+      "Major": "2D Art and Design",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "AR DE 104",
+      "CourseTitle": "Mixed Media and Collage",
+      "PreReq": "None",
+      "Major": "2D Art and Design",
+      "Req": false,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "AR DR 102",
+      "CourseTitle": "Nomadic Drawing",
+      "PreReq": "None",
+      "Major": "2D Art and Design",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "AR DR 103",
+      "CourseTitle": "Drawing Installation",
+      "PreReq": "None",
+      "Major": "2D Art and Design",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "AR DR 104",
+      "CourseTitle": "Drawing with Color",
+      "PreReq": "None",
+      "Major": "2D Art and Design",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "AR PN 100",
+      "CourseTitle": "Painting Fundamentals",
+      "PreReq": "None",
+      "Major": "2D Art and Design",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "AR PN 101",
+      "CourseTitle": "Watercolor and Gouache",
+      "PreReq": "None",
+      "Major": "2D Art and Design",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "AR PN 102",
+      "CourseTitle": "Oil Painting",
+      "PreReq": "None",
+      "Major": "2D Art and Design",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "AR PN 103",
+      "CourseTitle": "Off the Canvas",
+      "PreReq": "None",
+      "Major": "2D Art and Design",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "AR PN 104",
+      "CourseTitle": "Abstract Painting",
+      "PreReq": "None",
+      "Major": "2D Art and Design",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "AR PM 100",
+      "CourseTitle": "Printmaking",
+      "PreReq": "None",
+      "Major": "2D Art and Design",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "AR PM 101",
+      "CourseTitle": "Pen, Ink, and Scratchboard",
+      "PreReq": "None",
+      "Major": "2D Art and Design",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "AR PM 102",
+      "CourseTitle": "Relief Printing",
+      "PreReq": "None",
+      "Major": "2D Art and Design",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "AR PM 103",
+      "CourseTitle": "Silkscreen",
+      "PreReq": "None",
+      "Major": "2D Art and Design",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "AR PM 104",
+      "CourseTitle": "Lithography",
+      "PreReq": "None",
+      "Major": "2D Art and Design",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "AR IL 100",
+      "CourseTitle": "Introduction to Illustration",
+      "PreReq": "None",
+      "Major": "2D Art and Design",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "AR IL 101",
+      "CourseTitle": "Graphic Design",
+      "PreReq": "None",
+      "Major": "2D Art and Design",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "AR IL 102",
+      "CourseTitle": "Bookmaking Techniques",
+      "PreReq": "None",
+      "Major": "2D Art and Design",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "AR IL 103",
+      "CourseTitle": "Narrative Illustration",
+      "PreReq": "None",
+      "Major": "2D Art and Design",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "AR IL 104",
+      "CourseTitle": "Word and Image",
+      "PreReq": "None",
+      "Major": "2D Art and Design",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "AR IL 105",
+      "CourseTitle": "Editorial Illustration",
+      "PreReq": "None",
+      "Major": "2D Art and Design",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "AR IL 106",
+      "CourseTitle": "Animalia",
+      "PreReq": "None",
+      "Major": "2D Art and Design",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "AR IL 107",
+      "CourseTitle": "Sequential Art",
+      "PreReq": "None",
+      "Major": "2D Art and Design",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "AR IL 108",
+      "CourseTitle": "Character Design",
+      "PreReq": "None",
+      "Major": "2D Art and Design",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "AR IL 109",
+      "CourseTitle": "Scientific Illustration",
+      "PreReq": "None",
+      "Major": "2D Art and Design",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "AG GE 100",
+      "CourseTitle": "Sustainable Agriculture",
+      "PreReq": "None",
+      "Major": "Agriculture",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "AG GE 101",
+      "CourseTitle": "Agricultural Research Methods",
+      "PreReq": "None",
+      "Major": "Agriculture",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "AG GE 102",
+      "CourseTitle": "Agricultural Mechanics",
+      "PreReq": "None",
+      "Major": "Agriculture",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "AG EC 103",
+      "CourseTitle": "Environmental Law and Planning",
+      "PreReq": "None",
+      "Major": "Agriculture",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "AG PL 100",
+      "CourseTitle": "Plant Anatomy and Physiology",
+      "PreReq": "None",
+      "Major": "Agriculture",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "AG EC 100",
+      "CourseTitle": "Agricultural Economics",
+      "PreReq": "None",
+      "Major": "Agriculture",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "AG EC 101",
+      "CourseTitle": "Agricultural Entrepreneurship",
+      "PreReq": "None",
+      "Major": "Agriculture",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "AG EC 102",
+      "CourseTitle": "Farm Business Management",
+      "PreReq": "None",
+      "Major": "Agriculture",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "AG EC 104",
+      "CourseTitle": "Food Laws and Regulations",
+      "PreReq": "None",
+      "Major": "Agriculture",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "AG AN 100",
+      "CourseTitle": "Principles of Animal Science",
+      "PreReq": "None",
+      "Major": "Agriculture",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "AG AN 200",
+      "CourseTitle": "Livestock Farm Practices",
+      "PreReq": "AG AN 100",
+      "Major": "Agriculture",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "AG AN 210",
+      "CourseTitle": "Veterinary Basics",
+      "PreReq": "AG AN 100",
+      "Major": "Agriculture",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "AG AN 220",
+      "CourseTitle": "Animal Nutrition",
+      "PreReq": "AG AN 100",
+      "Major": "Agriculture",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "AG AN 230",
+      "CourseTitle": "Domestic Animal Behavior",
+      "PreReq": "AG AN 100",
+      "Major": "Agriculture",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "AG PL 101",
+      "CourseTitle": "Plant Systematics",
+      "PreReq": "AG PL 100",
+      "Major": "Agriculture",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "AG PL 102",
+      "CourseTitle": "Soils, Fertilizers, and Growth",
+      "PreReq": "AG PL 100",
+      "Major": "Agriculture",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "AG PL 103",
+      "CourseTitle": "Garden Composition",
+      "PreReq": "None",
+      "Major": "Agriculture",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "AG PL 104",
+      "CourseTitle": "Field Crops Production",
+      "PreReq": "None",
+      "Major": "Agriculture",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "AG PL 105",
+      "CourseTitle": "Landscape Design",
+      "PreReq": "None",
+      "Major": "Agriculture",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "AG PL 106",
+      "CourseTitle": "Vegetable Production",
+      "PreReq": "None",
+      "Major": "Agriculture",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "AG PL 107",
+      "CourseTitle": "Fruit Production",
+      "PreReq": "None",
+      "Major": "Agriculture",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "AG PL 108",
+      "CourseTitle": "Greenhouse Management",
+      "PreReq": "None",
+      "Major": "Agriculture",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "AG PL 109",
+      "CourseTitle": "Pasture Management",
+      "PreReq": "None",
+      "Major": "Agriculture",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "AG PL 110",
+      "CourseTitle": "Pest and Insect Management Strategies",
+      "PreReq": "None",
+      "Major": "Agriculture",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "AG PL 111",
+      "CourseTitle": "Weed Science and Identification",
+      "PreReq": "AG PL 100",
+      "Major": "Agriculture",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "AG PL 112",
+      "CourseTitle": "Flora and Fauna",
+      "PreReq": "None",
+      "Major": "Agriculture",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "AG PL 113",
+      "CourseTitle": "Plant Ecology",
+      "PreReq": "None",
+      "Major": "Agriculture",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "AG PL 114",
+      "CourseTitle": "Crop Structure-Function Relationships",
+      "PreReq": "AG PL 100",
+      "Major": "Agriculture",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "AG PL 115",
+      "CourseTitle": "Hydroponic Crop Production",
+      "PreReq": "AG PL 100",
+      "Major": "Agriculture",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "AG PL 116",
+      "CourseTitle": "Weather and Climate",
+      "PreReq": "AG PL 100",
+      "Major": "Agriculture",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "BI CM 100",
+      "CourseTitle": "Introduction to Biology",
+      "PreReq": "None",
+      "Major": "Biology",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "BI CM 200",
+      "CourseTitle": "Cell Biology",
+      "PreReq": "BI CM 100",
+      "Major": "Biology",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "BI CM 300",
+      "CourseTitle": "Genetics",
+      "PreReq": "BI CM 200",
+      "Major": "Biology",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "BI EC 103",
+      "CourseTitle": "Biodiversity",
+      "PreReq": "None",
+      "Major": "Biology",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "BI EC 113",
+      "CourseTitle": "Bioethics",
+      "PreReq": "None",
+      "Major": "Biology",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "BI CM 101",
+      "CourseTitle": "Infectious Diseases",
+      "PreReq": "None",
+      "Major": "Biology",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "BI CM 102",
+      "CourseTitle": "Anatomy and Physiology",
+      "PreReq": "None",
+      "Major": "Biology",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "BI CM 210",
+      "CourseTitle": "Human Physiology",
+      "PreReq": "BI CM 100",
+      "Major": "Biology",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "BI CM 220",
+      "CourseTitle": "Behavioral Biology",
+      "PreReq": "BI CM 100",
+      "Major": "Biology",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "BI CM 230",
+      "CourseTitle": "Biology of Global Change",
+      "PreReq": "BI CM 100",
+      "Major": "Biology",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "BI CM 240",
+      "CourseTitle": "Evolution",
+      "PreReq": "BI CM 100",
+      "Major": "Biology",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "BI CM 400",
+      "CourseTitle": "Immunology",
+      "PreReq": "BI CM 300",
+      "Major": "Biology",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "BI CM 410",
+      "CourseTitle": "Microbiology",
+      "PreReq": "BI CM 300",
+      "Major": "Biology",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "BI CM 420",
+      "CourseTitle": "Developmental Biology",
+      "PreReq": "BI CM 300",
+      "Major": "Biology",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "BI CM 430",
+      "CourseTitle": "Molecular Biology",
+      "PreReq": "BI CM 300",
+      "Major": "Biology",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "BI CM 440",
+      "CourseTitle": "Systems Biology",
+      "PreReq": "BI CM 300",
+      "Major": "Biology",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "BI CM 450",
+      "CourseTitle": "Neural Circuits",
+      "PreReq": "BI CM 300",
+      "Major": "Biology",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "BI CM 460",
+      "CourseTitle": "Stem Cells and Regeneration",
+      "PreReq": "BI CM 300",
+      "Major": "Biology",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "BI EC 100",
+      "CourseTitle": "Marine Biology",
+      "PreReq": "BI CM 100",
+      "Major": "Biology",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "BI EC 101",
+      "CourseTitle": "Oceanography",
+      "PreReq": "BI CM 100",
+      "Major": "Biology",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "BI EC 102",
+      "CourseTitle": "Ecology",
+      "PreReq": "BI CM 100",
+      "Major": "Biology",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "BI EC 104",
+      "CourseTitle": "Sociobiology",
+      "PreReq": "None",
+      "Major": "Biology",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "BI EC 105",
+      "CourseTitle": "Ornithology",
+      "PreReq": "None",
+      "Major": "Biology",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "BI EC 106",
+      "CourseTitle": "Herpetology",
+      "PreReq": "None",
+      "Major": "Biology",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "BI EC 107",
+      "CourseTitle": "Biogeography",
+      "PreReq": "None",
+      "Major": "Biology",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "BI EC 108",
+      "CourseTitle": "Zoology",
+      "PreReq": "None",
+      "Major": "Biology",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "BI EC 109",
+      "CourseTitle": "Insect Biology",
+      "PreReq": "None",
+      "Major": "Biology",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "BI EC 110",
+      "CourseTitle": "Botany",
+      "PreReq": "None",
+      "Major": "Biology",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "BI EC 111",
+      "CourseTitle": "Paleontology",
+      "PreReq": "None",
+      "Major": "Biology",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "BI EC 112",
+      "CourseTitle": "Parasitology",
+      "PreReq": "None",
+      "Major": "Biology",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CH GE 100",
+      "CourseTitle": "Introduction to Chemistry",
+      "PreReq": "None",
+      "Major": "Chemistry",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "CH GE 101",
+      "CourseTitle": "Laboratory Techniques",
+      "PreReq": "None",
+      "Major": "Chemistry",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "CH GE 200",
+      "CourseTitle": "Organic Chemistry",
+      "PreReq": "CH GE 100",
+      "Major": "Chemistry",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "CH GE 210",
+      "CourseTitle": "Inorganic Chemistry",
+      "PreReq": "CH GE 100",
+      "Major": "Chemistry",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "CH BI 100",
+      "CourseTitle": "Biochemistry",
+      "PreReq": "CH GE 100",
+      "Major": "Chemistry",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "CH GE 102",
+      "CourseTitle": "Spectroscopy",
+      "PreReq": "None",
+      "Major": "Chemistry",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CH GE 103",
+      "CourseTitle": "Compounds and Kinetics",
+      "PreReq": "None",
+      "Major": "Chemistry",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CH GE 104",
+      "CourseTitle": "Macromolecular Drugs",
+      "PreReq": "None",
+      "Major": "Chemistry",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CH GE 105",
+      "CourseTitle": "Quantum Chemical Simulation",
+      "PreReq": "None",
+      "Major": "Chemistry",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CH GE 106",
+      "CourseTitle": "Computational Chemistry",
+      "PreReq": "None",
+      "Major": "Chemistry",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CH GE 107",
+      "CourseTitle": "Polymer Technology",
+      "PreReq": "None",
+      "Major": "Chemistry",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CH GE 108",
+      "CourseTitle": "Nanomaterials",
+      "PreReq": "None",
+      "Major": "Chemistry",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CH GE 300",
+      "CourseTitle": "Enzymes",
+      "PreReq": "CH GE 200",
+      "Major": "Chemistry",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CH GE 301",
+      "CourseTitle": "Lipids and the Biomembrane",
+      "PreReq": "CH GE 200",
+      "Major": "Chemistry",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CH GE 220",
+      "CourseTitle": "Thermodynamics",
+      "PreReq": "CH GE 100",
+      "Major": "Chemistry",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CH GE 310",
+      "CourseTitle": "Organometallic Chemistry",
+      "PreReq": "CH GE 210",
+      "Major": "Chemistry",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CH GE 311",
+      "CourseTitle": "Bioinorganic Chemistry",
+      "PreReq": "CH GE 210",
+      "Major": "Chemistry",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CH GE 312",
+      "CourseTitle": "Crystal Structure",
+      "PreReq": "CH GE 210",
+      "Major": "Chemistry",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CH GE 313",
+      "CourseTitle": "Renewable Energy",
+      "PreReq": "CH GE 210",
+      "Major": "Chemistry",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CH GE 314",
+      "CourseTitle": "Materials Chemistry",
+      "PreReq": "CH GE 210",
+      "Major": "Chemistry",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CH GE 410",
+      "CourseTitle": "Catalytic Reactions",
+      "PreReq": "CH GE 310",
+      "Major": "Chemistry",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CH BI 200",
+      "CourseTitle": "Environmental Biogeochemistry",
+      "PreReq": "BI CH 100",
+      "Major": "Chemistry",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CH BI 210",
+      "CourseTitle": "Neurophysiology",
+      "PreReq": "BI CH 100",
+      "Major": "Chemistry",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CH BI 220",
+      "CourseTitle": "DNA Technology",
+      "PreReq": "BI CH 100",
+      "Major": "Chemistry",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CH BI 320",
+      "CourseTitle": "Quantum Dots",
+      "PreReq": "BI CH 100",
+      "Major": "Chemistry",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CH BI 230",
+      "CourseTitle": "Protein Synthesis",
+      "PreReq": "BI CH 100",
+      "Major": "Chemistry",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CH BI 240",
+      "CourseTitle": "Heterocyclic Chemistry",
+      "PreReq": "BI CH 100",
+      "Major": "Chemistry",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CH BI 250",
+      "CourseTitle": "Molecular Structure/Reactivity",
+      "PreReq": "BI CH 100",
+      "Major": "Chemistry",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CH BI 260",
+      "CourseTitle": "Biochemical Engineering",
+      "PreReq": "BI CH 100",
+      "Major": "Chemistry",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CH BI 270",
+      "CourseTitle": "Biophotonics",
+      "PreReq": "BI CH 100",
+      "Major": "Chemistry",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CT WU 100",
+      "CourseTitle": "Self Defense",
+      "PreReq": "None",
+      "Major": "Combat and Weapon Use",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "CT WU 200",
+      "CourseTitle": "Defensive Tactics",
+      "PreReq": "CT WU 100",
+      "Major": "Combat and Weapon Use",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "CT WU 210",
+      "CourseTitle": "Offensive Tactics",
+      "PreReq": "CT WU 100",
+      "Major": "Combat and Weapon Use",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "CT WU 101",
+      "CourseTitle": "Weapon Safety",
+      "PreReq": "None",
+      "Major": "Combat and Weapon Use",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "CT WU 103",
+      "CourseTitle": "Teamwork Practicum",
+      "PreReq": "None",
+      "Major": "Combat and Weapon Use",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "CT WU 201",
+      "CourseTitle": "Poison Weapons",
+      "PreReq": "CT WU 101",
+      "Major": "Combat and Weapon Use",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CT WU 202",
+      "CourseTitle": "Magic Weapons",
+      "PreReq": "CT WU 101",
+      "Major": "Combat and Weapon Use",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CT WU 102",
+      "CourseTitle": "Armor and Shield Use",
+      "PreReq": "None",
+      "Major": "Combat and Weapon Use",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CT WU 104",
+      "CourseTitle": "Leadership and Authority",
+      "PreReq": "None",
+      "Major": "Combat and Weapon Use",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CT WU 105",
+      "CourseTitle": "Dodging and Counterattacks",
+      "PreReq": "None",
+      "Major": "Combat and Weapon Use",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CT WU 106",
+      "CourseTitle": "Combat on Horseback",
+      "PreReq": "EQ ST 100",
+      "Major": "Combat and Weapon Use",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CT WU 107",
+      "CourseTitle": "Stealth",
+      "PreReq": "None",
+      "Major": "Combat and Weapon Use",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CT WU 108",
+      "CourseTitle": "Dual Wielding",
+      "PreReq": "None",
+      "Major": "Combat and Weapon Use",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CT BL 100",
+      "CourseTitle": "Bladed Weapons",
+      "PreReq": "None",
+      "Major": "Combat and Weapon Use",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CT BL 101",
+      "CourseTitle": "Swords",
+      "PreReq": "CT BL 100",
+      "Major": "Combat and Weapon Use",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CT BL 102",
+      "CourseTitle": "Axes",
+      "PreReq": "CT BL 100",
+      "Major": "Combat and Weapon Use",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CT BL 103",
+      "CourseTitle": "Knives and Daggers",
+      "PreReq": "CT BL 100",
+      "Major": "Combat and Weapon Use",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CT BL 104",
+      "CourseTitle": "Polearms, Spears, and Lances",
+      "PreReq": "CT BL 100",
+      "Major": "Combat and Weapon Use",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CT BT 100",
+      "CourseTitle": "Blunt Weapon",
+      "PreReq": "None",
+      "Major": "Combat and Weapon Use",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CT BT 101",
+      "CourseTitle": "Clubs, Hammers, and Maces",
+      "PreReq": "CT BT 100",
+      "Major": "Combat and Weapon Use",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CT BT 102",
+      "CourseTitle": "Whips, Nunchucks, and Flails",
+      "PreReq": "CT BT 100",
+      "Major": "Combat and Weapon Use",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CT BT 103",
+      "CourseTitle": "Staffs and Poles",
+      "PreReq": "CT BT 100",
+      "Major": "Combat and Weapon Use",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CT RG 100",
+      "CourseTitle": "Ranged Weapons",
+      "PreReq": "None",
+      "Major": "Combat and Weapon Use",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CT RG 101",
+      "CourseTitle": "Longbows",
+      "PreReq": "CT RG 100",
+      "Major": "Combat and Weapon Use",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CT RG 102",
+      "CourseTitle": "Crossbows",
+      "PreReq": "CT RG 100",
+      "Major": "Combat and Weapon Use",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CT RG 103",
+      "CourseTitle": "Thrown Weapons",
+      "PreReq": "CT RG 100",
+      "Major": "Combat and Weapon Use",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CT HH 100",
+      "CourseTitle": "Hand to Hand Combat",
+      "PreReq": "None",
+      "Major": "Combat and Weapon Use",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CT HH 101",
+      "CourseTitle": "Claws, Gauntlets, and Knuckles",
+      "PreReq": "CT HH 100",
+      "Major": "Combat and Weapon Use",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CT HH 102",
+      "CourseTitle": "Martial Arts",
+      "PreReq": "CT HH 100",
+      "Major": "Combat and Weapon Use",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CT HH 103",
+      "CourseTitle": "Acrobatics, Flips, and Kicks",
+      "PreReq": "CT HH 100",
+      "Major": "Combat and Weapon Use",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CP SC 100",
+      "CourseTitle": "Introduction to Computer Science",
+      "PreReq": "None",
+      "Major": "Computer Science",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "CP SC 200",
+      "CourseTitle": "Geometric Algorithms",
+      "PreReq": "CP SC 100",
+      "Major": "Computer Science",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "CP SC 230",
+      "CourseTitle": "Computer Systems",
+      "PreReq": "CP SC 100",
+      "Major": "Computer Science",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "CP SC 101",
+      "CourseTitle": "Combinatoric Structures",
+      "PreReq": "None",
+      "Major": "Computer Science",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "CP SC 201",
+      "CourseTitle": "Probability in Computing",
+      "PreReq": "CP SC 101",
+      "Major": "Computer Science",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "CP SC 300",
+      "CourseTitle": "Artificial Intelligence",
+      "PreReq": "CP SC 200",
+      "Major": "Computer Science",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CP SC 301",
+      "CourseTitle": "Computer Graphics",
+      "PreReq": "CP SC 200",
+      "Major": "Computer Science",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CP SC 210",
+      "CourseTitle": "Database Systems",
+      "PreReq": "CP SC 100",
+      "Major": "Computer Science",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CP SC 310",
+      "CourseTitle": "Cloud Computing",
+      "PreReq": "CP SC 210",
+      "Major": "Computer Science",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CP SC 220",
+      "CourseTitle": "Software Engineering",
+      "PreReq": "CP SC 100",
+      "Major": "Computer Science",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CP SC 320",
+      "CourseTitle": "Full-Stack Applications",
+      "PreReq": "CP SC 220",
+      "Major": "Computer Science",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CP SC 330",
+      "CourseTitle": "Programming Languages",
+      "PreReq": "CP SC 230",
+      "Major": "Computer Science",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CP SC 430",
+      "CourseTitle": "Compiler Design Theory",
+      "PreReq": "CP SC 330",
+      "Major": "Computer Science",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CP SC 340",
+      "CourseTitle": "Information Security",
+      "PreReq": "CP SC 230",
+      "Major": "Computer Science",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CP SC 440",
+      "CourseTitle": "Computer Networks Security",
+      "PreReq": "CP SC 340",
+      "Major": "Computer Science",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CP SC 441",
+      "CourseTitle": "Fundamentals of Cryptography",
+      "PreReq": "CP SC 340",
+      "Major": "Computer Science",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CP SC 350",
+      "CourseTitle": "Distributed Systems",
+      "PreReq": "CP SC 230",
+      "Major": "Computer Science",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CP SC 450",
+      "CourseTitle": "Streaming and Event Systems",
+      "PreReq": "CP SC 360",
+      "Major": "Computer Science",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CP SC 360",
+      "CourseTitle": "Embedded Systems Development",
+      "PreReq": "CP SC 230",
+      "Major": "Computer Science",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CP SC 370",
+      "CourseTitle": "Computer Networks",
+      "PreReq": "CP SC 230",
+      "Major": "Computer Science",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CP SC 301",
+      "CourseTitle": "Analysis of Algorithms",
+      "PreReq": "CP SC 201",
+      "Major": "Computer Science",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CP SC 311",
+      "CourseTitle": "Foundations of Data Science",
+      "PreReq": "CP SC 201",
+      "Major": "Computer Science",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CP SC 411",
+      "CourseTitle": "Natural Language Processing",
+      "PreReq": "CP SC 311",
+      "Major": "Computer Science",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CP SC 421",
+      "CourseTitle": "Machine Learning",
+      "PreReq": "CP SC 311",
+      "Major": "Computer Science",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CP SC 102",
+      "CourseTitle": "Code, Data, and Art",
+      "PreReq": "None",
+      "Major": "Computer Science",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CP SC 103",
+      "CourseTitle": "Tools for Software Validation",
+      "PreReq": "None",
+      "Major": "Computer Science",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CP SC 104",
+      "CourseTitle": "Algorithms for Big Data",
+      "PreReq": "None",
+      "Major": "Computer Science",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CP SC 105",
+      "CourseTitle": "Data Mining",
+      "PreReq": "None",
+      "Major": "Computer Science",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CP SC 106",
+      "CourseTitle": "Game Design and Development",
+      "PreReq": "None",
+      "Major": "Computer Science",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CP SC 107",
+      "CourseTitle": "UI/UX Programming",
+      "PreReq": "None",
+      "Major": "Computer Science",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CU PR 100",
+      "CourseTitle": "Culinary Fundamentals",
+      "PreReq": "None",
+      "Major": "Culinary and Food Studies",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "CU PR 101",
+      "CourseTitle": "Savory Foods",
+      "PreReq": "CU PR 100",
+      "Major": "Culinary and Food Studies",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "CU PR 103",
+      "CourseTitle": "Baking and Pastry",
+      "PreReq": "CU PR 100",
+      "Major": "Culinary and Food Studies",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "CU SC 100",
+      "CourseTitle": "Food Safety",
+      "PreReq": "None",
+      "Major": "Culinary and Food Studies",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "CU SC 101",
+      "CourseTitle": "Food Science Fundamentals",
+      "PreReq": "None",
+      "Major": "Culinary and Food Studies",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "CU PR 102",
+      "CourseTitle": "Meat and Seafood",
+      "PreReq": "CU PR 100",
+      "Major": "Culinary and Food Studies",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CU PR 203",
+      "CourseTitle": "Breads and Rolls",
+      "PreReq": "CU PR 103",
+      "Major": "Culinary and Food Studies",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CU PR 213",
+      "CourseTitle": "Cakes",
+      "PreReq": "CU PR 103",
+      "Major": "Culinary and Food Studies",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CU PR 223",
+      "CourseTitle": "Confectionery",
+      "PreReq": "CU PR 103",
+      "Major": "Culinary and Food Studies",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CU PR 233",
+      "CourseTitle": "Patisserie",
+      "PreReq": "CU PR 103",
+      "Major": "Culinary and Food Studies",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CU PR 104",
+      "CourseTitle": "High-Volume Production",
+      "PreReq": "CU PR 100",
+      "Major": "Culinary and Food Studies",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CU PR 105",
+      "CourseTitle": "Vegetarian Cuisine",
+      "PreReq": "CU PR 100",
+      "Major": "Culinary and Food Studies",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CU PR 106",
+      "CourseTitle": "Charcuterie",
+      "PreReq": "CU PR 100",
+      "Major": "Culinary and Food Studies",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CU PR 107",
+      "CourseTitle": "Garde Manger",
+      "PreReq": "CU PR 100",
+      "Major": "Culinary and Food Studies",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CU SC 201",
+      "CourseTitle": "Culinary Chemistry",
+      "PreReq": "CU SC 101",
+      "Major": "Culinary and Food Studies",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CU SC 301",
+      "CourseTitle": "Physical Properties of Food",
+      "PreReq": "CU SC 201",
+      "Major": "Culinary and Food Studies",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CU SC 311",
+      "CourseTitle": "Flavor Science and Perception",
+      "PreReq": "CU SC 201",
+      "Major": "Culinary and Food Studies",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CU SC 321",
+      "CourseTitle": "Ingredient Functionality",
+      "PreReq": "CU SC 101",
+      "Major": "Culinary and Food Studies",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CU SC 211",
+      "CourseTitle": "Nutrition",
+      "PreReq": "CU SC 101",
+      "Major": "Culinary and Food Studies",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CU SC 103",
+      "CourseTitle": "Gastronomy",
+      "PreReq": "None",
+      "Major": "Culinary and Food Studies",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CU SC 104",
+      "CourseTitle": "Sustainable Food Communities",
+      "PreReq": "None",
+      "Major": "Culinary and Food Studies",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CU SC 105",
+      "CourseTitle": "Food History",
+      "PreReq": "None",
+      "Major": "Culinary and Food Studies",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CU SC 106",
+      "CourseTitle": "Food Photography and Styling",
+      "PreReq": "None",
+      "Major": "Culinary and Food Studies",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CU SC 107",
+      "CourseTitle": "Anthropology of Food",
+      "PreReq": "None",
+      "Major": "Culinary and Food Studies",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CU SC 108",
+      "CourseTitle": "Food Policy and Systems",
+      "PreReq": "None",
+      "Major": "Culinary and Food Studies",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CU SC 109",
+      "CourseTitle": "Cookbooks and History",
+      "PreReq": "None",
+      "Major": "Culinary and Food Studies",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CU SC 110",
+      "CourseTitle": "Food Ethnography",
+      "PreReq": "None",
+      "Major": "Culinary and Food Studies",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CU SC 111",
+      "CourseTitle": "Beer and Spirits",
+      "PreReq": "None",
+      "Major": "Culinary and Food Studies",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CU SC 112",
+      "CourseTitle": "Wine",
+      "PreReq": "None",
+      "Major": "Culinary and Food Studies",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "CU SC 113",
+      "CourseTitle": "Philosophy of Food",
+      "PreReq": "None",
+      "Major": "Culinary and Food Studies",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "EQ ST 100",
+      "CourseTitle": "Horseback Riding",
+      "PreReq": "None",
+      "Major": "Equestrian Studies",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "EQ ST 101",
+      "CourseTitle": "Horse Training",
+      "PreReq": "None",
+      "Major": "Equestrian Studies",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "EQ ST 105",
+      "CourseTitle": "Equine Safety and Rescue",
+      "PreReq": "None",
+      "Major": "Equestrian Studies",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "EQ ST 107",
+      "CourseTitle": "Equine Studies",
+      "PreReq": "None",
+      "Major": "Equestrian Studies",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "EQ ST 113",
+      "CourseTitle": "Equine Industry Issues",
+      "PreReq": "None",
+      "Major": "Equestrian Studies",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "EQ ST 200",
+      "CourseTitle": "Riding Instruction",
+      "PreReq": "EQ ST 100",
+      "Major": "Equestrian Studies",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "EQ ST 300",
+      "CourseTitle": "Administrating Equine-Assisted Services",
+      "PreReq": "EQ ST 200",
+      "Major": "Equestrian Studies",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "EQ ST 102",
+      "CourseTitle": "Bits, Saddle Fitting, and Hoof Balance",
+      "PreReq": "None",
+      "Major": "Equestrian Studies",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "EQ ST 103",
+      "CourseTitle": "Preparing for Competition",
+      "PreReq": "EQ ST 100",
+      "Major": "Equestrian Studies",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "EQ ST 203",
+      "CourseTitle": "Competitive Longe Line",
+      "PreReq": "EQ ST 103",
+      "Major": "Equestrian Studies",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "EQ ST 213",
+      "CourseTitle": "Competition Organization",
+      "PreReq": "EQ ST 103",
+      "Major": "Equestrian Studies",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "EQ ST 104",
+      "CourseTitle": "Dressage",
+      "PreReq": "None",
+      "Major": "Equestrian Studies",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "EQ ST 106",
+      "CourseTitle": "Stable Operations",
+      "PreReq": "None",
+      "Major": "Equestrian Studies",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "EQ ST 206",
+      "CourseTitle": "Stable Management",
+      "PreReq": "EQ ST 106",
+      "Major": "Equestrian Studies",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "EQ ST 216",
+      "CourseTitle": "Equine Facility Design",
+      "PreReq": "EQ ST 106",
+      "Major": "Equestrian Studies",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "EQ ST 306",
+      "CourseTitle": "Pasture Management",
+      "PreReq": "EQ ST 206",
+      "Major": "Equestrian Studies",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "EQ ST 406",
+      "CourseTitle": "Equine Facilities Management",
+      "PreReq": "EQ ST 306",
+      "Major": "Equestrian Studies",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "EQ ST 207",
+      "CourseTitle": "Equine Anatomy and Physiology",
+      "PreReq": "EQ ST 107",
+      "Major": "Equestrian Studies",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "EQ ST 307",
+      "CourseTitle": "Equine Healthcare Management",
+      "PreReq": "EQ ST 207",
+      "Major": "Equestrian Studies",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "EQ ST 317",
+      "CourseTitle": "Equine Rehabilitation",
+      "PreReq": "EQ ST 207",
+      "Major": "Equestrian Studies",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "EQ ST 327",
+      "CourseTitle": "Equine Reproduction",
+      "PreReq": "EQ ST 207",
+      "Major": "Equestrian Studies",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "EQ ST 337",
+      "CourseTitle": "Growth and Performance",
+      "PreReq": "EQ ST 207",
+      "Major": "Equestrian Studies",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "EQ ST 347",
+      "CourseTitle": "Equine Behavior",
+      "PreReq": "EQ ST 207",
+      "Major": "Equestrian Studies",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "EQ ST 357",
+      "CourseTitle": "Equine Exercise Physiology",
+      "PreReq": "EQ ST 207",
+      "Major": "Equestrian Studies",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "EQ ST 367",
+      "CourseTitle": "Equine Nutrition",
+      "PreReq": "EQ ST 207",
+      "Major": "Equestrian Studies",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "EQ ST 108",
+      "CourseTitle": "Feeds, Feeding and Forages",
+      "PreReq": "None",
+      "Major": "Equestrian Studies",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "EQ ST 109",
+      "CourseTitle": "Animal Ethics, Welfare, Rights, and Law",
+      "PreReq": "None",
+      "Major": "Equestrian Studies",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "EQ ST 110",
+      "CourseTitle": "Waste Management",
+      "PreReq": "None",
+      "Major": "Equestrian Studies",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "EQ ST 111",
+      "CourseTitle": "Horse Evaluation",
+      "PreReq": "None",
+      "Major": "Equestrian Studies",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "EQ ST 112",
+      "CourseTitle": "Foaling",
+      "PreReq": "None",
+      "Major": "Equestrian Studies",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "FS HN 100",
+      "CourseTitle": "Culture Dress and Identity",
+      "PreReq": "None",
+      "Major": "Fashion",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "FS HN 101",
+      "CourseTitle": "Sewing Techniques",
+      "PreReq": "None",
+      "Major": "Fashion",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "FS HN 102",
+      "CourseTitle": "Draping Techniques",
+      "PreReq": "None",
+      "Major": "Fashion",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "FS HN 107",
+      "CourseTitle": "Pattern Drafting and Design",
+      "PreReq": "None",
+      "Major": "Fashion",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "FS HN 108",
+      "CourseTitle": "Materials and Construction",
+      "PreReq": "None",
+      "Major": "Fashion",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "FS HN 201",
+      "CourseTitle": "Tailoring",
+      "PreReq": "FS HN 101",
+      "Major": "Fashion",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "FS HN 103",
+      "CourseTitle": "Knitting Techniques",
+      "PreReq": "None",
+      "Major": "Fashion",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "FS HN 104",
+      "CourseTitle": "Weaving Techniques",
+      "PreReq": "None",
+      "Major": "Fashion",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "FS HN 105",
+      "CourseTitle": "Structured Silhouettes",
+      "PreReq": "None",
+      "Major": "Fashion",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "FS HN 205",
+      "CourseTitle": "Corsetry",
+      "PreReq": "FS HN 105",
+      "Major": "Fashion",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "FS HN 106",
+      "CourseTitle": "Soft Silhouettes",
+      "PreReq": "None",
+      "Major": "Fashion",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "FS HN 109",
+      "CourseTitle": "Sketching for Fashion Designers",
+      "PreReq": "None",
+      "Major": "Fashion",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "FS HN 209",
+      "CourseTitle": "Fashion Illustration",
+      "PreReq": "FS HN 109",
+      "Major": "Fashion",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "FS HN 110",
+      "CourseTitle": "Fit Analysis and Documentation",
+      "PreReq": "None",
+      "Major": "Fashion",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "FS HN 111",
+      "CourseTitle": "Textile Design",
+      "PreReq": "None",
+      "Major": "Fashion",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "FS HN 112",
+      "CourseTitle": "Handbag Design",
+      "PreReq": "None",
+      "Major": "Fashion",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "FS HN 113",
+      "CourseTitle": "Footwear Design",
+      "PreReq": "None",
+      "Major": "Fashion",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "FS HN 114",
+      "CourseTitle": "Color Studies",
+      "PreReq": "None",
+      "Major": "Fashion",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "FS HN 115",
+      "CourseTitle": "Intimate Apparel",
+      "PreReq": "None",
+      "Major": "Fashion",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "FS HN 116",
+      "CourseTitle": "Outerwear",
+      "PreReq": "None",
+      "Major": "Fashion",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "FS HN 117",
+      "CourseTitle": "Children's Apparel",
+      "PreReq": "None",
+      "Major": "Fashion",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "FS HN 118",
+      "CourseTitle": "Sportswear",
+      "PreReq": "None",
+      "Major": "Fashion",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "FS HN 119",
+      "CourseTitle": "Bridal Design",
+      "PreReq": "None",
+      "Major": "Fashion",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "FS HN 120",
+      "CourseTitle": "Swimwear",
+      "PreReq": "None",
+      "Major": "Fashion",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "FS HN 121",
+      "CourseTitle": "Fashion Merchandising",
+      "PreReq": "None",
+      "Major": "Fashion",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "FS HN 122",
+      "CourseTitle": "Fashion History",
+      "PreReq": "None",
+      "Major": "Fashion",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "FS HN 123",
+      "CourseTitle": "Screen Printing",
+      "PreReq": "None",
+      "Major": "Fashion",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "FS HN 124",
+      "CourseTitle": "Leather Apparel",
+      "PreReq": "None",
+      "Major": "Fashion",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "FS HN 125",
+      "CourseTitle": "Jewelry",
+      "PreReq": "None",
+      "Major": "Fashion",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "FS HN 126",
+      "CourseTitle": "Embroidery",
+      "PreReq": "None",
+      "Major": "Fashion",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "IT LS 100",
+      "CourseTitle": "Foundations of Library Science",
+      "PreReq": "None",
+      "Major": "Information and Library Science",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "IT LS 200",
+      "CourseTitle": "Retrieval and Organizing Systems",
+      "PreReq": "IT LS 100",
+      "Major": "Information and Library Science",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "IT LS 101",
+      "CourseTitle": "Information Literacy",
+      "PreReq": "None",
+      "Major": "Information and Library Science",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "IT LS 201",
+      "CourseTitle": "Information Systems Analysis",
+      "PreReq": "IT LS 101",
+      "Major": "Information and Library Science",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "IT LS 104",
+      "CourseTitle": "Cataloging Theory and Practice",
+      "PreReq": "None",
+      "Major": "Information and Library Science",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "IT LS 102",
+      "CourseTitle": "Sources Evaluation",
+      "PreReq": "None",
+      "Major": "Information and Library Science",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "IT LS 103",
+      "CourseTitle": "Information Visualization",
+      "PreReq": "None",
+      "Major": "Information and Library Science",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "IT LS 105",
+      "CourseTitle": "Indexing and Thesaurus Construction",
+      "PreReq": "None",
+      "Major": "Information and Library Science",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "IT LS 106",
+      "CourseTitle": "Records and Database Management",
+      "PreReq": "None",
+      "Major": "Information and Library Science",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "IT LS 107",
+      "CourseTitle": "Services for Underserved Populations",
+      "PreReq": "None",
+      "Major": "Information and Library Science",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "IT LS 108",
+      "CourseTitle": "Cultural Heritage Repositories",
+      "PreReq": "None",
+      "Major": "Information and Library Science",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "IT LS 109",
+      "CourseTitle": "User Experience Research",
+      "PreReq": "None",
+      "Major": "Information and Library Science",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "IT LS 110",
+      "CourseTitle": "Managing and Maintaining Collections",
+      "PreReq": "None",
+      "Major": "Information and Library Science",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "IT LS 111",
+      "CourseTitle": "Youth Services",
+      "PreReq": "None",
+      "Major": "Information and Library Science",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "IT LS 211",
+      "CourseTitle": "School Library Programs",
+      "PreReq": "IT LS 111",
+      "Major": "Information and Library Science",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "IT LS 112",
+      "CourseTitle": "Programs and Services for Young Adults",
+      "PreReq": "None",
+      "Major": "Information and Library Science",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "IT LS 113",
+      "CourseTitle": "Music Librarianship",
+      "PreReq": "None",
+      "Major": "Information and Library Science",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "IT LS 114",
+      "CourseTitle": "Public Libraries",
+      "PreReq": "None",
+      "Major": "Information and Library Science",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "IT LS 115",
+      "CourseTitle": "Academic Libraries",
+      "PreReq": "None",
+      "Major": "Information and Library Science",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "IT LS 116",
+      "CourseTitle": "Archives, History, and Collective Memory",
+      "PreReq": "None",
+      "Major": "Information and Library Science",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "IT LS 126",
+      "CourseTitle": "Archival Theory and Practice",
+      "PreReq": "IT LS 116",
+      "Major": "Information and Library Science",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "IT LS 136",
+      "CourseTitle": "Preservation in Libraries and Archives",
+      "PreReq": "IT LS 116",
+      "Major": "Information and Library Science",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "IT LS 146",
+      "CourseTitle": "Archive Appraisal",
+      "PreReq": "IT LS 116",
+      "Major": "Information and Library Science",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "IT LS 117",
+      "CourseTitle": "Digital Preservation",
+      "PreReq": "None",
+      "Major": "Information and Library Science",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "IT LS 118",
+      "CourseTitle": "Art Documentation",
+      "PreReq": "None",
+      "Major": "Information and Library Science",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "IT LS 119",
+      "CourseTitle": "Rare Books and Special Collections",
+      "PreReq": "None",
+      "Major": "Information and Library Science",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "IT LS 120",
+      "CourseTitle": "Legal Issues for Librarians",
+      "PreReq": "None",
+      "Major": "Information and Library Science",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "IT LS 121",
+      "CourseTitle": "History of the Book",
+      "PreReq": "None",
+      "Major": "Information and Library Science",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "IT LS 122",
+      "CourseTitle": "Photographic Archives",
+      "PreReq": "None",
+      "Major": "Information and Library Science",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "IT LS 123",
+      "CourseTitle": "Moving Image Archives",
+      "PreReq": "None",
+      "Major": "Information and Library Science",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "LT CR 101",
+      "CourseTitle": "World Literature",
+      "PreReq": "None",
+      "Major": "Literary Studies",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "LT CR 110",
+      "CourseTitle": "Introduction to Literary Studies",
+      "PreReq": "None",
+      "Major": "Literary Studies",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "LT CR 210",
+      "CourseTitle": "History of Literary Criticism",
+      "PreReq": "LT CR 110",
+      "Major": "Literary Studies",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "LT CR 220",
+      "CourseTitle": "Literature and Society",
+      "PreReq": "LT CR 110",
+      "Major": "Literary Studies",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "LT CR 230",
+      "CourseTitle": "Literary Genres",
+      "PreReq": "LT CR 110",
+      "Major": "Literary Studies",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "LT CR 102",
+      "CourseTitle": "Modern Literature",
+      "PreReq": "None",
+      "Major": "Literary Studies",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "LT CR 103",
+      "CourseTitle": "Introduction to Fiction",
+      "PreReq": "None",
+      "Major": "Literary Studies",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "LT CR 104",
+      "CourseTitle": "Introduction to Poetry",
+      "PreReq": "None",
+      "Major": "Literary Studies",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "LT CR 105",
+      "CourseTitle": "Children's Literature",
+      "PreReq": "None",
+      "Major": "Literary Studies",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "LT CR 106",
+      "CourseTitle": "Big Novels, Big Ideas",
+      "PreReq": "None",
+      "Major": "Literary Studies",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "LT CR 107",
+      "CourseTitle": "The Graphic Novel",
+      "PreReq": "None",
+      "Major": "Literary Studies",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "LT CR 108",
+      "CourseTitle": "Post-Apocalyptic Narratives",
+      "PreReq": "None",
+      "Major": "Literary Studies",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "LT CR 109",
+      "CourseTitle": "Forms and Logic of Comedy",
+      "PreReq": "None",
+      "Major": "Literary Studies",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "LT CR 240",
+      "CourseTitle": "Literature, Gender, and Sexuality",
+      "PreReq": "LT CR 110",
+      "Major": "Literary Studies",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "LT CR 250",
+      "CourseTitle": "Race, Ethnicity, and Indigeneity",
+      "PreReq": "LT CR 110",
+      "Major": "Literary Studies",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "LT CR 260",
+      "CourseTitle": "Literature and Philosophy",
+      "PreReq": "LT CR 110",
+      "Major": "Literary Studies",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "LT CR 111",
+      "CourseTitle": "Activism and Storytelling",
+      "PreReq": "None",
+      "Major": "Literary Studies",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "LT CR 112",
+      "CourseTitle": "Realism and Its Shadow",
+      "PreReq": "None",
+      "Major": "Literary Studies",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "LT CR 113",
+      "CourseTitle": "Detective Fiction",
+      "PreReq": "None",
+      "Major": "Literary Studies",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "LT CR 114",
+      "CourseTitle": "Disability Studies in Literature",
+      "PreReq": "None",
+      "Major": "Literary Studies",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "LT CR 115",
+      "CourseTitle": "Existentialism",
+      "PreReq": "None",
+      "Major": "Literary Studies",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "LT CR 116",
+      "CourseTitle": "History of the Novel",
+      "PreReq": "None",
+      "Major": "Literary Studies",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "LT CR 117",
+      "CourseTitle": "The Gothic, Identity, and the Human",
+      "PreReq": "None",
+      "Major": "Literary Studies",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "LT CR 118",
+      "CourseTitle": "World Literature in an Oceanic Context",
+      "PreReq": "None",
+      "Major": "Literary Studies",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "LT CR 119",
+      "CourseTitle": "Ecopoetics and Photography",
+      "PreReq": "None",
+      "Major": "Literary Studies",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "LT CR 120",
+      "CourseTitle": "The Art and Practice of Impersonality",
+      "PreReq": "None",
+      "Major": "Literary Studies",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "LT CR 121",
+      "CourseTitle": "Drama",
+      "PreReq": "None",
+      "Major": "Literary Studies",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "LT CR 122",
+      "CourseTitle": "Love Stories",
+      "PreReq": "None",
+      "Major": "Literary Studies",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "LT CR 123",
+      "CourseTitle": "Medical Narratives",
+      "PreReq": "None",
+      "Major": "Literary Studies",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "LT CR 124",
+      "CourseTitle": "Science Fiction and Fantasy",
+      "PreReq": "None",
+      "Major": "Literary Studies",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "MG RQ 100",
+      "CourseTitle": "Magic Ethics and Safety",
+      "PreReq": "None",
+      "Major": "Magic Use",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "MG RQ 101",
+      "CourseTitle": "Runes",
+      "PreReq": "None",
+      "Major": "Magic Use",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "MG AS 103",
+      "CourseTitle": "Mental Protection Spells",
+      "PreReq": "None",
+      "Major": "Magic Use",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "MG BA 100",
+      "CourseTitle": "Shields and Defense Magic",
+      "PreReq": "None",
+      "Major": "Magic Use",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "MG IL 103",
+      "CourseTitle": "Enchantment and Magical Objects",
+      "PreReq": "None",
+      "Major": "Magic Use",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "MG AS 100",
+      "CourseTitle": "Divination and Memory",
+      "PreReq": "None",
+      "Major": "Magic Use",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "MG AS 101",
+      "CourseTitle": "Astral Projection",
+      "PreReq": "None",
+      "Major": "Magic Use",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "MG AS 201",
+      "CourseTitle": "Teleportation",
+      "PreReq": "MG AS 101",
+      "Major": "Magic Use",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "MG AS 102",
+      "CourseTitle": "Speaking to the Dead",
+      "PreReq": "None",
+      "Major": "Magic Use",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "MG AS 104",
+      "CourseTitle": "Lunar Magic",
+      "PreReq": "None",
+      "Major": "Magic Use",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "MG BA 200",
+      "CourseTitle": "Invulnerability",
+      "PreReq": "MG BA 100",
+      "Major": "Magic Use",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "MG BA 210",
+      "CourseTitle": "Counterspells",
+      "PreReq": "MG BA 100",
+      "Major": "Magic Use",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "MG BA 101",
+      "CourseTitle": "Controlled Explosions and Destruction",
+      "PreReq": "None",
+      "Major": "Magic Use",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "MG BA 102",
+      "CourseTitle": "Telekinesis",
+      "PreReq": "None",
+      "Major": "Magic Use",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "MG BA 103",
+      "CourseTitle": "Enhancement, Support, and Augmentation",
+      "PreReq": "None",
+      "Major": "Magic Use",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "MG EE 100",
+      "CourseTitle": "Fire Magic",
+      "PreReq": "None",
+      "Major": "Magic Use",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "MG EE 101",
+      "CourseTitle": "Nature Magic",
+      "PreReq": "None",
+      "Major": "Magic Use",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "MG EE 201",
+      "CourseTitle": "Plant Communication",
+      "PreReq": "MG EE 101",
+      "Major": "Magic Use",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "MG EE 211",
+      "CourseTitle": "Animal Communication",
+      "PreReq": "MG EE 101",
+      "Major": "Magic Use",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "MG EE 311",
+      "CourseTitle": "Animal Companions and Familiars",
+      "PreReq": "MG EE 211",
+      "Major": "Magic Use",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "MG EE 102",
+      "CourseTitle": "Water and Ice Magic",
+      "PreReq": "None",
+      "Major": "Magic Use",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "MG EE 103",
+      "CourseTitle": "Weather and Tempest Magic",
+      "PreReq": "None",
+      "Major": "Magic Use",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "MG EE 203",
+      "CourseTitle": "Flying Fundamentals",
+      "PreReq": "MG EE 103",
+      "Major": "Magic Use",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "MG EE 104",
+      "CourseTitle": "Light, Color, and Shadow Magic",
+      "PreReq": "None",
+      "Major": "Magic Use",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "MG IL 100",
+      "CourseTitle": "Illusion Fundamentals",
+      "PreReq": "MG IL 100",
+      "Major": "Magic Use",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "MG IL 200",
+      "CourseTitle": "Cloaking, Glamours, and Invisibility",
+      "PreReq": "MG IL 200",
+      "Major": "Magic Use",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "MG IL 300",
+      "CourseTitle": "Shapeshifting",
+      "PreReq": "None",
+      "Major": "Magic Use",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "MG IL 101",
+      "CourseTitle": "Dispelling and Disillusionment",
+      "PreReq": "None",
+      "Major": "Magic Use",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "MG IL 102",
+      "CourseTitle": "Conjuring and Creation Magic",
+      "PreReq": "None",
+      "Major": "Magic Use",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "MG IL 104",
+      "CourseTitle": "Object Transmutation",
+      "PreReq": "None",
+      "Major": "Magic Use",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "MA TH 100",
+      "CourseTitle": "Probability and Statistics",
+      "PreReq": "None",
+      "Major": "Mathematics",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "MA TH 101",
+      "CourseTitle": "Calculus",
+      "PreReq": "None",
+      "Major": "Mathematics",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "MA TH 201",
+      "CourseTitle": "Multivariate Calculus",
+      "PreReq": "MA TH 101",
+      "Major": "Mathematics",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "MA TH 301",
+      "CourseTitle": "Differential Equations",
+      "PreReq": "MA TH 201",
+      "Major": "Mathematics",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "MA TH 221",
+      "CourseTitle": "Linear Algebra",
+      "PreReq": "MA TH 101",
+      "Major": "Mathematics",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "MA TH 200",
+      "CourseTitle": "Analysis of Variance",
+      "PreReq": "MA TH 100",
+      "Major": "Mathematics",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "MA TH 210",
+      "CourseTitle": "Statistical Analysis of Point Process Data",
+      "PreReq": "MA TH 100",
+      "Major": "Mathematics",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "MA TH 401",
+      "CourseTitle": "Methods of Applied Mathematics",
+      "PreReq": "MA TH 301",
+      "Major": "Mathematics",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "MA TH 311",
+      "CourseTitle": "Numerical Analysis",
+      "PreReq": "MA TH 201",
+      "Major": "Mathematics",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "MA TH 321",
+      "CourseTitle": "Complex Variables",
+      "PreReq": "MA TH 201",
+      "Major": "Mathematics",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "MA TH 331",
+      "CourseTitle": "Differential Geometry",
+      "PreReq": "MA TH 201",
+      "Major": "Mathematics",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "MA TH 341",
+      "CourseTitle": "Topology",
+      "PreReq": "MA TH 201",
+      "Major": "Mathematics",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "MA TH 211",
+      "CourseTitle": "Vector Calculus",
+      "PreReq": "MA TH 101",
+      "Major": "Mathematics",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "MA TH 321",
+      "CourseTitle": "Introduction to Number Theory",
+      "PreReq": "MA TH 221",
+      "Major": "Mathematics",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "MA TH 331",
+      "CourseTitle": "Knot Theory",
+      "PreReq": "MA TH 221",
+      "Major": "Mathematics",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "MA TH 231",
+      "CourseTitle": "Dynamics, Chaos, and Fractals",
+      "PreReq": "MA TH 101",
+      "Major": "Mathematics",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "MA TH 102",
+      "CourseTitle": "Discrete Mathematics",
+      "PreReq": "None",
+      "Major": "Mathematics",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "MA TH 202",
+      "CourseTitle": "Applied Abstract Algebra",
+      "PreReq": "MA TH 102",
+      "Major": "Mathematics",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "MA TH 212",
+      "CourseTitle": "Mathematical Logic",
+      "PreReq": "MA TH 102",
+      "Major": "Mathematics",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "MA TH 312",
+      "CourseTitle": "Foundations of Mathematics",
+      "PreReq": "MA TH 212",
+      "Major": "Mathematics",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "MA TH 103",
+      "CourseTitle": "Writing in Mathematics",
+      "PreReq": "None",
+      "Major": "Mathematics",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "MA TH 104",
+      "CourseTitle": "Geometry and Symmetry",
+      "PreReq": "None",
+      "Major": "Mathematics",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "MA TH 105",
+      "CourseTitle": "Mathematical Thinking",
+      "PreReq": "None",
+      "Major": "Mathematics",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "MA TH 106",
+      "CourseTitle": "Math Fundamentals for Games",
+      "PreReq": "None",
+      "Major": "Mathematics",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "MA TH 107",
+      "CourseTitle": "History of Mathematics",
+      "PreReq": "None",
+      "Major": "Mathematics",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "MA TH 108",
+      "CourseTitle": "Graph Theory",
+      "PreReq": "None",
+      "Major": "Mathematics",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "MA TH 109",
+      "CourseTitle": "Complex Manifolds",
+      "PreReq": "None",
+      "Major": "Mathematics",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "MA TH 110",
+      "CourseTitle": "Combinatorics",
+      "PreReq": "None",
+      "Major": "Mathematics",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "MA TH 111",
+      "CourseTitle": "Mathematical Methods and Modeling",
+      "PreReq": "None",
+      "Major": "Mathematics",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "MA TH 112",
+      "CourseTitle": "Quantum Computation and Information",
+      "PreReq": "None",
+      "Major": "Mathematics",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "PH LY 100",
+      "CourseTitle": "Introduction to Philosophy",
+      "PreReq": "None",
+      "Major": "Philosophy",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "PH LY 101",
+      "CourseTitle": "Great Philosophers",
+      "PreReq": "None",
+      "Major": "Philosophy",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "PH LY 102",
+      "CourseTitle": "Introduction to Ethics",
+      "PreReq": "None",
+      "Major": "Philosophy",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "PH LY 115",
+      "CourseTitle": "History of Ancient Philosophy",
+      "PreReq": "None",
+      "Major": "Philosophy",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "PH LY 116",
+      "CourseTitle": "History of Modern Philosophy",
+      "PreReq": "None",
+      "Major": "Philosophy",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "PH LY 103",
+      "CourseTitle": "Politics and Philosophy",
+      "PreReq": "None",
+      "Major": "Philosophy",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "PH LY 104",
+      "CourseTitle": "Reasoning and Argumentation",
+      "PreReq": "None",
+      "Major": "Philosophy",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "PH LY 204",
+      "CourseTitle": "Metaphysics and Epistemology",
+      "PreReq": "PH LY 104",
+      "Major": "Philosophy",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "PH LY 105",
+      "CourseTitle": "Philosophy of Human Nature",
+      "PreReq": "None",
+      "Major": "Philosophy",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "PH LY 106",
+      "CourseTitle": "Existentialism",
+      "PreReq": "None",
+      "Major": "Philosophy",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "PH LY 107",
+      "CourseTitle": "Medical Ethics",
+      "PreReq": "None",
+      "Major": "Philosophy",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "PH LY 108",
+      "CourseTitle": "Social Philosophy",
+      "PreReq": "None",
+      "Major": "Philosophy",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "PH LY 109",
+      "CourseTitle": "Philosophy of Gender and Sexuality",
+      "PreReq": "None",
+      "Major": "Philosophy",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "PH LY 110",
+      "CourseTitle": "Philosophy of the Arts",
+      "PreReq": "None",
+      "Major": "Philosophy",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "PH LY 111",
+      "CourseTitle": "Puzzles and Paradoxes",
+      "PreReq": "None",
+      "Major": "Philosophy",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "PH LY 112",
+      "CourseTitle": "Mind, Brain, and Self",
+      "PreReq": "None",
+      "Major": "Philosophy",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "PH LY 113",
+      "CourseTitle": "Philosophy of Science",
+      "PreReq": "None",
+      "Major": "Philosophy",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "PH LY 114",
+      "CourseTitle": "Science, Technology, and Values",
+      "PreReq": "None",
+      "Major": "Philosophy",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "PH LY 216",
+      "CourseTitle": "Analytic Philosophy",
+      "PreReq": "PH LY 116",
+      "Major": "Philosophy",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "PH LY 226",
+      "CourseTitle": "Phenomenology",
+      "PreReq": "PH LY 116",
+      "Major": "Philosophy",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "PH LY 117",
+      "CourseTitle": "History of Ethics",
+      "PreReq": "None",
+      "Major": "Philosophy",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "PH LY 217",
+      "CourseTitle": "Crime and Punishment",
+      "PreReq": "PH LY 117",
+      "Major": "Philosophy",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "PH LY 118",
+      "CourseTitle": "Symbolic Logic",
+      "PreReq": "None",
+      "Major": "Philosophy",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "PH LY 119",
+      "CourseTitle": "Metaphysics",
+      "PreReq": "None",
+      "Major": "Philosophy",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "PH LY 120",
+      "CourseTitle": "Philosophy of Mind",
+      "PreReq": "None",
+      "Major": "Philosophy",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "PH LY 121",
+      "CourseTitle": "Philosophy of Love",
+      "PreReq": "None",
+      "Major": "Philosophy",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "PH LY 122",
+      "CourseTitle": "Philosophy of Religion",
+      "PreReq": "None",
+      "Major": "Philosophy",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "PH LY 123",
+      "CourseTitle": "Classical to Early Modern Political Theory",
+      "PreReq": "None",
+      "Major": "Philosophy",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "PH LY 124",
+      "CourseTitle": "Community, Liberty, and Morality",
+      "PreReq": "None",
+      "Major": "Philosophy",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "PH LY 125",
+      "CourseTitle": "Political and Legal Philosophy",
+      "PreReq": "None",
+      "Major": "Philosophy",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "PS YG 100",
+      "CourseTitle": "General Psychology",
+      "PreReq": "None",
+      "Major": "Psychology",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "PS YG 200",
+      "CourseTitle": "Perception",
+      "PreReq": "PS YG 100",
+      "Major": "Psychology",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "PS YG 311",
+      "CourseTitle": "Neuropsychology",
+      "PreReq": "PS YG 210",
+      "Major": "Psychology",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "PS YG 230",
+      "CourseTitle": "Developmental Psychology",
+      "PreReq": "PS YG 100",
+      "Major": "Psychology",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "PS YG 250",
+      "CourseTitle": "Social Psychology",
+      "PreReq": "PS YG 100",
+      "Major": "Psychology",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "PS YG 210",
+      "CourseTitle": "Physiological Psychology",
+      "PreReq": "PS YG 100",
+      "Major": "Psychology",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "PS YG 310",
+      "CourseTitle": "Memory Systems of the Brain",
+      "PreReq": "PS YG 210",
+      "Major": "Psychology",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "PS YG 312",
+      "CourseTitle": "Neurobiology of Decision Making",
+      "PreReq": "PS YG 210",
+      "Major": "Psychology",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "PS YG 220",
+      "CourseTitle": "Psychology of Learning",
+      "PreReq": "PS YG 100",
+      "Major": "Psychology",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "PS YG 330",
+      "CourseTitle": "Social Development",
+      "PreReq": "PS YG 230",
+      "Major": "Psychology",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "PS YG 331",
+      "CourseTitle": "Adolescent Mental Health",
+      "PreReq": "PS YG 230",
+      "Major": "Psychology",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "PS YG 332",
+      "CourseTitle": "Childhood Adversity",
+      "PreReq": "PS YG 230",
+      "Major": "Psychology",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "PS YG 333",
+      "CourseTitle": "Language Development",
+      "PreReq": "PS YG 230",
+      "Major": "Psychology",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "PS YG 240",
+      "CourseTitle": "Psychology of Personality",
+      "PreReq": "PS YG 100",
+      "Major": "Psychology",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "PS YG 260",
+      "CourseTitle": "Cognitive Psychology",
+      "PreReq": "PS YG 100",
+      "Major": "Psychology",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "PS YG 360",
+      "CourseTitle": "Human Brain Mapping",
+      "PreReq": "PS YG 260",
+      "Major": "Psychology",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "PS YG 361",
+      "CourseTitle": "Memory Imaging/Manipulation",
+      "PreReq": "PS YG 260",
+      "Major": "Psychology",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "PS YG 270",
+      "CourseTitle": "Psychology of the Family",
+      "PreReq": "PS YG 100",
+      "Major": "Psychology",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "PS YG 280",
+      "CourseTitle": "Psychopathology",
+      "PreReq": "PS YG 100",
+      "Major": "Psychology",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "PS YG 380",
+      "CourseTitle": "Clinical Psychology",
+      "PreReq": "PS YG 280",
+      "Major": "Psychology",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "PS YG 290",
+      "CourseTitle": "Abnormal Psychology",
+      "PreReq": "PS YG 100",
+      "Major": "Psychology",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "PS YG 300",
+      "CourseTitle": "Psychology of Gender",
+      "PreReq": "PS YG 100",
+      "Major": "Psychology",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "PS YG 101",
+      "CourseTitle": "Cross-Cultural Psychology",
+      "PreReq": "None",
+      "Major": "Psychology",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "PS YG 102",
+      "CourseTitle": "Psychology of Poverty",
+      "PreReq": "None",
+      "Major": "Psychology",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "PS YG 103",
+      "CourseTitle": "How Beliefs Create Reality",
+      "PreReq": "None",
+      "Major": "Psychology",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "PS YG 104",
+      "CourseTitle": "Psycholinguistics",
+      "PreReq": "None",
+      "Major": "Psychology",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "PS YG 105",
+      "CourseTitle": "Psychology of Moral Behavior",
+      "PreReq": "None",
+      "Major": "Psychology",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "PS YG 106",
+      "CourseTitle": "Communication Facilitation",
+      "PreReq": "None",
+      "Major": "Psychology",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "PS YG 107",
+      "CourseTitle": "Minds and Machines",
+      "PreReq": "None",
+      "Major": "Psychology",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "PS YG 108",
+      "CourseTitle": "Neuroethics",
+      "PreReq": "None",
+      "Major": "Psychology",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "TH WR 101",
+      "CourseTitle": "The Art of Storytelling",
+      "PreReq": "None",
+      "Major": "Theater",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "TH HI 100",
+      "CourseTitle": "Theater History",
+      "PreReq": "None",
+      "Major": "Theater",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "TH HI 101",
+      "CourseTitle": "Modern/Contemporary Theater",
+      "PreReq": "None",
+      "Major": "Theater",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "TH PF 100",
+      "CourseTitle": "Voice and Speech",
+      "PreReq": "None",
+      "Major": "Theater",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "TH PD 100",
+      "CourseTitle": "Stagecraft",
+      "PreReq": "None",
+      "Major": "Theater",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "TH WR 100",
+      "CourseTitle": "Playwriting",
+      "PreReq": "None",
+      "Major": "Theater",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "TH HI 102",
+      "CourseTitle": "Theater for Young Audiences",
+      "PreReq": "None",
+      "Major": "Theater",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "TH HI 103",
+      "CourseTitle": "Theater and Social Change",
+      "PreReq": "None",
+      "Major": "Theater",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "TH HI 104",
+      "CourseTitle": "Gender, Sexuality, and Performance",
+      "PreReq": "None",
+      "Major": "Theater",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "TH PF 200",
+      "CourseTitle": "Dialects",
+      "PreReq": "TH PF 100",
+      "Major": "Theater",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "TH PF 101",
+      "CourseTitle": "Acting and Performance",
+      "PreReq": "None",
+      "Major": "Theater",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "TH PF 111",
+      "CourseTitle": "Scene Study",
+      "PreReq": "TH PF 101",
+      "Major": "Theater",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "TH PF 102",
+      "CourseTitle": "Movement",
+      "PreReq": "TH PF 101",
+      "Major": "Theater",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "TH PF 112",
+      "CourseTitle": "Stage Combat",
+      "PreReq": "TH PF 102",
+      "Major": "Theater",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "TH PF 103",
+      "CourseTitle": "Theater Ensemble",
+      "PreReq": "TH PF 101",
+      "Major": "Theater",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "TH PF 104",
+      "CourseTitle": "Dance Fundamentals",
+      "PreReq": "TH PF 101",
+      "Major": "Theater",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "TH PF 114",
+      "CourseTitle": "Dance Practicum",
+      "PreReq": "TH PF 104",
+      "Major": "Theater",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "TH PF 105",
+      "CourseTitle": "Musical Theater Performance",
+      "PreReq": "TH PF 101",
+      "Major": "Theater",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "TH PF 106",
+      "CourseTitle": "Improvisation",
+      "PreReq": "TH PF 101",
+      "Major": "Theater",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "TH PF 107",
+      "CourseTitle": "Puppetry",
+      "PreReq": "TH PF 101",
+      "Major": "Theater",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "TH PF 108",
+      "CourseTitle": "Audition Techniques",
+      "PreReq": "TH PF 101",
+      "Major": "Theater",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "TH PF 109",
+      "CourseTitle": "Masks",
+      "PreReq": "TH PF 101",
+      "Major": "Theater",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "TH PD 101",
+      "CourseTitle": "Stage Direction",
+      "PreReq": "None",
+      "Major": "Theater",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "TH PD 102",
+      "CourseTitle": "Stage Management",
+      "PreReq": "None",
+      "Major": "Theater",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "TH PD 103",
+      "CourseTitle": "Scene Construction and Design",
+      "PreReq": "None",
+      "Major": "Theater",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "TH PD 104",
+      "CourseTitle": "Costume Design",
+      "PreReq": "None",
+      "Major": "Theater",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "TH PD 105",
+      "CourseTitle": "Lighting Design",
+      "PreReq": "None",
+      "Major": "Theater",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "TH PD 106",
+      "CourseTitle": "Sound Design",
+      "PreReq": "None",
+      "Major": "Theater",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "TH PD 107",
+      "CourseTitle": "Stage Makeup",
+      "PreReq": "None",
+      "Major": "Theater",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "TH PD 108",
+      "CourseTitle": "Choreography and Design",
+      "PreReq": "TH PF 104",
+      "Major": "Theater",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "WR JR 100",
+      "CourseTitle": "Fundamentals of Grammar",
+      "PreReq": "None",
+      "Major": "Writing and Journalism",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "WR JR 102",
+      "CourseTitle": "Basics of Narrative Design",
+      "PreReq": "None",
+      "Major": "Writing and Journalism",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "WR JR 119",
+      "CourseTitle": "Narrative Tempo",
+      "PreReq": "None",
+      "Major": "Writing and Journalism",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "WR JR 120",
+      "CourseTitle": "Point of View",
+      "PreReq": "None",
+      "Major": "Writing and Journalism",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "WR JR 129",
+      "CourseTitle": "Rhetoric and Argument",
+      "PreReq": "None",
+      "Major": "Writing and Journalism",
+      "Req": true,
+      "StudentMaximum": 50
+    },
+    {
+      "CourseCode": "WR JR 101",
+      "CourseTitle": "Writing Utopia and Dystopia",
+      "PreReq": "None",
+      "Major": "Writing and Journalism",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "WR JR 103",
+      "CourseTitle": "Storytelling",
+      "PreReq": "None",
+      "Major": "Writing and Journalism",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "WR JR 104",
+      "CourseTitle": "Academic Writing",
+      "PreReq": "None",
+      "Major": "Writing and Journalism",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "WR JR 105",
+      "CourseTitle": "Memoir and Personal Essay",
+      "PreReq": "None",
+      "Major": "Writing and Journalism",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "WR JR 106",
+      "CourseTitle": "History of Journalism",
+      "PreReq": "None",
+      "Major": "Writing and Journalism",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "WR JR 107",
+      "CourseTitle": "Writing Short Fiction",
+      "PreReq": "None",
+      "Major": "Writing and Journalism",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "WR JR 108",
+      "CourseTitle": "Creative Research",
+      "PreReq": "None",
+      "Major": "Writing and Journalism",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "WR JR 109",
+      "CourseTitle": "Poetry Workshop",
+      "PreReq": "None",
+      "Major": "Writing and Journalism",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "WR JR 110",
+      "CourseTitle": "Newswriting",
+      "PreReq": "None",
+      "Major": "Writing and Journalism",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "WR JR 111",
+      "CourseTitle": "Reporting in Depth",
+      "PreReq": "None",
+      "Major": "Writing and Journalism",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "WR JR 112",
+      "CourseTitle": "Feature Writing",
+      "PreReq": "None",
+      "Major": "Writing and Journalism",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "WR JR 113",
+      "CourseTitle": "Photojournalism",
+      "PreReq": "None",
+      "Major": "Writing and Journalism",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "WR JR 114",
+      "CourseTitle": "Experimental Essay",
+      "PreReq": "None",
+      "Major": "Writing and Journalism",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "WR JR 115",
+      "CourseTitle": "Law and Ethics of Journalism",
+      "PreReq": "None",
+      "Major": "Writing and Journalism",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "WR JR 116",
+      "CourseTitle": "Magazine Writing and Editing",
+      "PreReq": "None",
+      "Major": "Writing and Journalism",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "WR JR 117",
+      "CourseTitle": "Epistolary Writing",
+      "PreReq": "None",
+      "Major": "Writing and Journalism",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "WR JR 118",
+      "CourseTitle": "Writing the Uncanny",
+      "PreReq": "None",
+      "Major": "Writing and Journalism",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "WR JR 121",
+      "CourseTitle": "Writing the Body",
+      "PreReq": "None",
+      "Major": "Writing and Journalism",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "WR JR 122",
+      "CourseTitle": "Global Health Storytelling",
+      "PreReq": "None",
+      "Major": "Writing and Journalism",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "WR JR 123",
+      "CourseTitle": "Elegy",
+      "PreReq": "None",
+      "Major": "Writing and Journalism",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "WR JR 124",
+      "CourseTitle": "The Art of the Interview",
+      "PreReq": "None",
+      "Major": "Writing and Journalism",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "WR JR 125",
+      "CourseTitle": "Literary Empathy",
+      "PreReq": "None",
+      "Major": "Writing and Journalism",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "WR JR 126",
+      "CourseTitle": "Speculative Fiction",
+      "PreReq": "None",
+      "Major": "Writing and Journalism",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "WR JR 127",
+      "CourseTitle": "Writing the Family",
+      "PreReq": "None",
+      "Major": "Writing and Journalism",
+      "Req": false,
+      "StudentMaximum": 20
+    },
+    {
+      "CourseCode": "WR JR 128",
+      "CourseTitle": "Experimental Story Structure",
+      "PreReq": "None",
+      "Major": "Writing and Journalism",
+      "Req": false,
+      "StudentMaximum": 20
+    }
+]
