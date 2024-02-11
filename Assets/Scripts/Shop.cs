@@ -73,6 +73,11 @@ public class Shop : MonoBehaviour
     }
 
 
+    public void HideErrorPanel() {
+        Errorpanel.SetActive(false);
+    }
+
+
     //********** WINNING & LOSING ***********//
 
 
@@ -708,6 +713,11 @@ public class Shop : MonoBehaviour
         if (CurrentStudentApp != 0) {
             CurrentStudentApp--;
         }
+        else {
+            ErrorText.text = "End of applications";
+            Errorpanel.SetActive(true);
+            Invoke("HideErrorPanel", 1f);            
+        }
         DisplayStudent(StudentApps, CurrentStudentApp);
     }
 
@@ -715,6 +725,11 @@ public class Shop : MonoBehaviour
     public void AdmitNextOnClick() {
         if (CurrentStudentApp < StudentApps.Count - 1) {
             CurrentStudentApp++;
+        }
+        else {
+            ErrorText.text = "End of applications";
+            Errorpanel.SetActive(true);
+            Invoke("HideErrorPanel", 1f);            
         }
         DisplayStudent(StudentApps, CurrentStudentApp);
     }
@@ -981,7 +996,7 @@ public class Shop : MonoBehaviour
         for (int i = 0; i < 3; i++) {
             AlreadyHired.Add(false); // none of the professors have been hired yet
         }
-        for (int i = 0; i < 20; i++) {
+        for (int i = 0; i < 35; i++) {
             AlreadyAdmitted.Add(false); // none of the students have been admitted yet
         }
         PopulateProfessorApplications(); // make and display professor application
